@@ -1,0 +1,5 @@
+/Hanoi/bin/Debug/*.pdb
+/Hanoi/bin/Debug/*.exe
+/Hanoi/bin/Debug/*.config
+/Hanoi/bin/Debug/*.manifest
+/Hanoi/obj/Debug
