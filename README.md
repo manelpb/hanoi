@@ -7,5 +7,7 @@ This is  a mathematical game or puzzle. It consists of three pegs, and a number 
 The  objective  of  the  puzzle  is  to  move all  the  discsto the  right  peg, obeying the following simple rules:
 
 1.Only one disk can be moved at a time.
+
 2.Each move consists of taking the upper discfrom one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost discon a stack.
+
 3.No disc may be placed on top of a smaller disc.
